@@ -1,2 +1,0 @@
-pk = 'kk'
-print(pk)
